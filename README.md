@@ -1,4 +1,4 @@
-# Projetos Home Pages
+# <img src="/assets/youtube-logoII.png" width="70" align="center" /> YouTube Diferenciado
 
 Olá, Devs!👋 Sou Igor César e criei este repositório destinado ao agrupamento de projetos de desenvolvimento web voltados para a criação de home pages e interfaces modernas.
 

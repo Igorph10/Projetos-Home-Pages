@@ -138,7 +138,7 @@ Rotação suave da seta do botão "Mostrar mais/menos" usando CSS transitions.
 
 ## <img src="https://img.icons8.com/?size=100&id=92925&format=png&color=000000" width="35" align="absbottom" /> Preview do Projeto
 
-![YouTube Diferenciado Preview](/assets/preview.png)
+![YouTube Diferenciado Preview](./assets/preview.png)
 
 ---
 
@@ -146,4 +146,5 @@ Rotação suave da seta do botão "Mostrar mais/menos" usando CSS transitions.
 
 **Informações para Contato:**
 - GitHub: [@Igorph10](https://github.com/Igorph10)
+
 - LinkedIn: [Igor César Pinheiro da Silva](https://www.linkedin.com/in/igor-césar-pinheiro-da-silva-9a58192b9)

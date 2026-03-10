@@ -1,11 +1,11 @@
-# <img src="./assets/youtube-color.png" width="45" align="absbottom" /> YouTube Diferenciado
+# <img src="./assets/youtube-color.png" width="35" align="absbottom" /> YouTube Diferenciado
 
 > Réplica moderna da interface do YouTube construída do zero com HTML5 semântico, CSS3 avançado e JavaScript vanilla.
 >
 > Um projeto que demonstra domínio de estrutura semântica, acessibilidade web (WCAG 2.1) e técnicas de frontend moderno, ideal para portifólio de desenvolvimento web.
 
 
-## <img src="https://img.icons8.com/?size=100&id=dWFJGQYzOgpd&format=png&color=000000" width="35" align="absbottom" /> Aprendizados
+## <img src="https://img.icons8.com/?size=100&id=dWFJGQYzOgpd&format=png&color=000000" width="28" align="absbottom" /> Aprendizados
 
 - HTML5 semântico e acessível
 - CSS Flexbox e técnicas avançadas
@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=JjXkZB4POgHN&format=png&color=000000" width="35" align="absbottom" /> Estrutura do Projeto
+## <img src="https://img.icons8.com/?size=100&id=JjXkZB4POgHN&format=png&color=000000" width="30" align="absbottom" /> Estrutura do Projeto
 
 ```
 youtube-diferenciado/
@@ -28,11 +28,7 @@ youtube-diferenciado/
 
 ---
 
-## <img src="./assets/technologies-used.png " width="35" align="absbottom" /> Tecnologias Utilizadas
-
-<!-- 
-center
--->
+## <img src="./assets/technologies-used.png " width="32" align="absbottom" /> Tecnologias Utilizadas
 
 - **HTML5** - Estrutura semântica
 - **CSS3** - Estilização e layout
@@ -54,7 +50,7 @@ center
 
 <br>
 
-## <img src="./assets/Features.png" width="35" align="absbottom" /> Funcionalidades
+## <img src="./assets/Features.png" width="30" align="absbottom" /> Funcionalidades
 
 ```
 ◾ Interface fiel ao Youtube, utilizando como base HTML e CSS3
@@ -71,7 +67,7 @@ center
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=1TCX2ww987mj&format=png&color=000000" width="35" align="absbottom" /> Destaques Técnicos
+## <img src="https://img.icons8.com/?size=100&id=1TCX2ww987mj&format=png&color=000000" width="30" align="absbottom" /> Destaques Técnicos
 
 ### HTML5 Semântico
 - Estrutura com tags semânticas: `<header>`, `<main>`, `<nav>`, `<aside>`, `<section>`, `<article>`
@@ -89,7 +85,7 @@ center
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=keI1M862UTP2&format=png&color=000000" width="35" align="absbottom" /> Principais Técnicas
+## <img src="https://img.icons8.com/?size=100&id=keI1M862UTP2&format=png&color=000000" width="30" align="absbottom" /> Principais Técnicas
 
 ### 1. Input + Botão Fundidos
 Técnica de fusão visual criando um único componente a partir de dois elementos separados.
@@ -136,16 +132,17 @@ Rotação suave da seta do botão "Mostrar mais/menos" usando CSS transitions.
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=92925&format=png&color=000000" width="35" align="absbottom" /> Preview do Projeto
+## <img src="https://img.icons8.com/?size=100&id=92925&format=png&color=000000" width="28" align="absbottom" /> Preview do Projeto
 
 <img src="./assets/preview.png" alt="YouTube Diferenciado Preview" width="720" >
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="35" align="absbottom" /> Desenvolvedor Igor César
+## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28" align="absbottom" /> Desenvolvedor Igor César
 
 **Informações para Contato:**
 - GitHub: [@Igorph10](https://github.com/Igorph10)
 
 - LinkedIn: [Igor César Pinheiro da Silva](https://www.linkedin.com/in/igor-césar-pinheiro-da-silva-9a58192b9)
+
 

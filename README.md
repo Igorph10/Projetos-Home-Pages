@@ -19,10 +19,10 @@ Todas as sugestões, melhorias e novas ideias são sempre bem-vindas! Fique à v
 2. Abra o arquivo `index.html` no seu navegador.
 3. Explore, modifique e aprenda!
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.txt) para mais detalhes.
-
 ---
 
-Desenvolvido por [Igorph10](https://github.com/Igorph10)
+## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25" align="absbottom" /> Igor César Pinheiro da Silva
+
+**Informações para Contato:**
+- GitHub: [@Igorph10](https://github.com/Igorph10)
+- LinkedIn: [Igor César Pinheiro da Silva](https://www.linkedin.com/in/igor-césar-pinheiro-da-silva-9a58192b9)
